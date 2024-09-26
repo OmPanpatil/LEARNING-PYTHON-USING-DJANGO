@@ -1,0 +1,42 @@
+    * Syllabus Overview *
+
+    - Python basics
+    - Types
+    - Object oriented Python
+    - File handling
+    - Exception handling
+    - HTML
+    - CSS
+    - JS
+    - DJANGO
+    - Database --> Sqlite/mysqlite
+    - Projects
+
+    * Introduction to Python :
+
+        --> History of Python:
+            - Python was conceived in the late 1980's by Guido van Rossum at centrum Wiskunde and Informatica in the netherland as a successor of the ABC Language.
+            - He has been invariably worked as the lead developer until 12 july 2018.
+            - In Jan 2019, active python core developer elected a five member council to lead the project.
+            
+    * Version History :
+         --> Python was built in late 1989's it was getting mature and were building better
+         --> Python 1.0 = 1994
+         --> Python 2.0 = 2000
+         --> Python 3.0 = 2008
+
+         Latest Version
+         --> Python 3.10.6 => 2 Aug 2022
+         --> Python 3.11.0
+         --> Python 3.12.6 => 24 Sept 2024
+
+         * Name-python:
+
+            - Python developers aim for it to be fun to use.
+            - The name 'Python' is a tribute to the british comedy group Monty Python.
+
+        * Why u should learn Python ?
+            - Huge community support
+            - Future is with AI
+            - Easy to learn and implement
+            - General purpose programming language.
