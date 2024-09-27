@@ -40,3 +40,19 @@
             - Future is with AI
             - Easy to learn and implement
             - General purpose programming language.
+
+
+        * Features of Python : 
+            - Highly extensible
+            - Simple and straight forward syntax
+            - Multiparadigm programming language
+            - Emphasis on code readability
+            - Dynamic typing
+            - Automatic Memory Management
+            - Dynamic Binding
+            - Precise coding
+            - For time critical operations, python can use modules written in c language.
+            - Indentation base block of code
+            - Large library
+            - Platform independent.
+            
